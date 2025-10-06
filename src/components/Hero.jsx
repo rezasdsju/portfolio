@@ -47,7 +47,7 @@ const Hero = () => {
           fontSize: '1.15rem',
           fontWeight: 'bold',
           transition: '0.3s',
-        }}
+        }} 
         onMouseEnter={e => e.target.style.backgroundColor = '#3170d1'}
         onMouseLeave={e => e.target.style.backgroundColor = '#4493F8'}
       >
