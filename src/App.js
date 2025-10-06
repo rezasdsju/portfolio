@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Hero />
-      <About />
+      {/* <About /> */}
       <Skills />
       <Projects /> {/* এখানে Projects কম্পোনেন্ট যোগ করুন */}
       <Profiles />
