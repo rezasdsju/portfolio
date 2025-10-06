@@ -8,10 +8,10 @@ const Footer = () => {
       color: 'white',
       textAlign: 'center'
     }}>
-      <p>&copy; 2024 My Portfolio. All rights reserved.</p>
+      <p>&copy; Rezaul Karim Rifat. All rights reserved.</p>
       <p>Connect with me on 
         <a 
-          href="https://github.com/yourusername" 
+          href="https://github.com/rezasdsju" 
           style={{ color: '#4493F8', marginLeft: '5px' }}
           target="_blank"
           rel="noopener noreferrer"
