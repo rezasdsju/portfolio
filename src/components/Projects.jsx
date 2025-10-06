@@ -20,9 +20,7 @@ const Projects = () => {
                 <a href={project.liveLink} target="_blank" rel="noopener noreferrer">
                   Visit Website
                 </a>
-                <a href={`https://github.com/rezasdsju/${project.githubLink}`} target="_blank" rel="noopener noreferrer">
-                  GitHub
-                </a>
+
               </div>
             </div>
           ))}
